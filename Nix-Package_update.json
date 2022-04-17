@@ -1,0 +1,35 @@
+[
+ {
+   "Id": 1,
+   "Img": "https://i.postimg.cc/5yLw8LWg/package-1.jpg",
+   "Title": "BRONZE",
+   "Description": "All soft copy of photos will be delivered in NIX-Photography Signature Pen drive",
+   "Photographer": "Junior Photographer",
+   "Event_Duration": "4 Hours",
+   "Special Photo": "100PCS",
+   "Print": "4R (4”x6″) Matte Prints: 100 copies",
+   "Price": 125
+ },
+ {
+   "Id": 2,
+   "Img": "https://i.postimg.cc/59Kcrzvy/package-2.jpg",
+   "Title": "GOLD",
+   "Description": "All soft copy of photos will be delivered in NIX-Photography Signature Pen drive",
+   "Photographer": "Top Photographer ",
+   "Event_Duration": "4 Hours",
+   "Special Photo": "200 PCS",
+   "Print": "4R (4”x6″) Matte Prints: 100 copies",
+   "Price": 150
+ },
+ {
+   "Id": 3,
+   "Img": "https://i.postimg.cc/rpyXbNhd/package-3.jpg",
+   "Title": "DIAMOND",
+   "Description": "All soft copy of photos will be delivered in NIX-Photography Signature Pen drive",
+   "Photographer": "Senior Photographer",
+   "Event_Duration": "6 Hours",
+   "Special Photo": " 300 PCS",
+   "Print": "12L (12”x 18″) Matte Print: 1 copy",
+   "Price": 200
+ }
+]
