@@ -5,7 +5,7 @@
    "Title": "BRONZE",
    "Description": "All soft copy of photos will be delivered in NIX-Photography Signature Pen drive",
    "Photographer": "Junior Photographer",
-   "Event Duration": "4 Hours",
+   "Event_Duration": "4 Hours",
    "Special Photo": "100PCS",
    "Print": "4R (4”x6″) Matte Prints: 100 copies",
    "Price": 125
@@ -16,7 +16,7 @@
    "Title": "GOLD",
    "Description": "All soft copy of photos will be delivered in NIX-Photography Signature Pen drive",
    "Photographer": "Top Photographer ",
-   "Event Duration": "4 Hours",
+   "Event_Duration": "4 Hours",
    "Special Photo": "200 PCS",
    "Print": "4R (4”x6″) Matte Prints: 100 copies",
    "Price": 150
@@ -27,7 +27,7 @@
    "Title": "DIAMOND",
    "Description": "All soft copy of photos will be delivered in NIX-Photography Signature Pen drive",
    "Photographer": "Senior Photographer",
-   "Event Duration": "6 Hours",
+   "Event_Duration": "6 Hours",
    "Special Photo": " 300 PCS",
    "Print": "12L (12”x 18″) Matte Print: 1 copy",
    "Price": 200
